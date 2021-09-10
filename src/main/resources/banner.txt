@@ -1,0 +1,29 @@
+
+
+                                                                                                  ''''''
+BBBBBBBBBBBBBBBBB     iiii                                           iiii          tttt           '::::'                      BBBBBBBBBBBBBBBBB                                     kkkkkkkk                         hhhhhhh                                lllllll    ffffffffffffffff
+B::::::::::::::::B   i::::i                                         i::::i      ttt:::t           '::::'                      B::::::::::::::::B                                    k::::::k                         h:::::h                                l:::::l   f::::::::::::::::f
+B::::::BBBBBB:::::B   iiii                                           iiii       t:::::t           ':::''                      B::::::BBBBBB:::::B                                   k::::::k                         h:::::h                                l:::::l  f::::::::::::::::::f
+BB:::::B     B:::::B                                                            t:::::t          ':::'                        BB:::::B     B:::::B                                  k::::::k                         h:::::h                                l:::::l  f::::::fffffff:::::f
+  B::::B     B:::::Biiiiiiirrrrr   rrrrrrrrr      ggggggggg   gggggiiiiiiittttttt:::::ttttttt    ''''       ssssssssss          B::::B     B:::::B   ooooooooooo      ooooooooooo    k:::::k    kkkkkkk  ssssssssss   h::::h hhhhh           eeeeeeeeeeee    l::::l  f:::::f       ffffff
+  B::::B     B:::::Bi:::::ir::::rrr:::::::::r    g:::::::::ggg::::gi:::::it:::::::::::::::::t             ss::::::::::s         B::::B     B:::::B oo:::::::::::oo  oo:::::::::::oo  k:::::k   k:::::k ss::::::::::s  h::::hh:::::hhh      ee::::::::::::ee  l::::l  f:::::f
+  B::::BBBBBB:::::B  i::::ir:::::::::::::::::r  g:::::::::::::::::g i::::it:::::::::::::::::t           ss:::::::::::::s        B::::BBBBBB:::::B o:::::::::::::::oo:::::::::::::::o k:::::k  k:::::kss:::::::::::::s h::::::::::::::hh   e::::::eeeee:::::eel::::l f:::::::ffffff
+  B:::::::::::::BB   i::::irr::::::rrrrr::::::rg::::::ggggg::::::gg i::::itttttt:::::::tttttt           s::::::ssss:::::s       B:::::::::::::BB  o:::::ooooo:::::oo:::::ooooo:::::o k:::::k k:::::k s::::::ssss:::::sh:::::::hhh::::::h e::::::e     e:::::el::::l f::::::::::::f
+  B::::BBBBBB:::::B  i::::i r:::::r     r:::::rg:::::g     g:::::g  i::::i      t:::::t                  s:::::s  ssssss        B::::BBBBBB:::::B o::::o     o::::oo::::o     o::::o k::::::k:::::k   s:::::s  ssssss h::::::h   h::::::he:::::::eeeee::::::el::::l f::::::::::::f
+  B::::B     B:::::B i::::i r:::::r     rrrrrrrg:::::g     g:::::g  i::::i      t:::::t                    s::::::s             B::::B     B:::::Bo::::o     o::::oo::::o     o::::o k:::::::::::k      s::::::s      h:::::h     h:::::he:::::::::::::::::e l::::l f:::::::ffffff
+  B::::B     B:::::B i::::i r:::::r            g:::::g     g:::::g  i::::i      t:::::t                       s::::::s          B::::B     B:::::Bo::::o     o::::oo::::o     o::::o k:::::::::::k         s::::::s   h:::::h     h:::::he::::::eeeeeeeeeee  l::::l  f:::::f
+  B::::B     B:::::B i::::i r:::::r            g::::::g    g:::::g  i::::i      t:::::t    tttttt       ssssss   s:::::s        B::::B     B:::::Bo::::o     o::::oo::::o     o::::o k::::::k:::::k  ssssss   s:::::s h:::::h     h:::::he:::::::e           l::::l  f:::::f
+BB:::::BBBBBB::::::Bi::::::ir:::::r            g:::::::ggggg:::::g i::::::i     t::::::tttt:::::t       s:::::ssss::::::s     BB:::::BBBBBB::::::Bo:::::ooooo:::::oo:::::ooooo:::::ok::::::k k:::::k s:::::ssss::::::sh:::::h     h:::::he::::::::e         l::::::lf:::::::f
+B:::::::::::::::::B i::::::ir:::::r             g::::::::::::::::g i::::::i     tt::::::::::::::t       s::::::::::::::s      B:::::::::::::::::B o:::::::::::::::oo:::::::::::::::ok::::::k  k:::::ks::::::::::::::s h:::::h     h:::::h e::::::::eeeeeeee l::::::lf:::::::f
+B::::::::::::::::B  i::::::ir:::::r              gg::::::::::::::g i::::::i       tt:::::::::::tt        s:::::::::::ss       B::::::::::::::::B   oo:::::::::::oo  oo:::::::::::oo k::::::k   k:::::ks:::::::::::ss  h:::::h     h:::::h  ee:::::::::::::e l::::::lf:::::::f
+BBBBBBBBBBBBBBBBB   iiiiiiiirrrrrrr                gggggggg::::::g iiiiiiii         ttttttttttt           sssssssssss         BBBBBBBBBBBBBBBBB      ooooooooooo      ooooooooooo   kkkkkkkk    kkkkkkksssssssssss    hhhhhhh     hhhhhhh    eeeeeeeeeeeeee llllllllfffffffff
+                                                           g:::::g
+                                               gggggg      g:::::g
+                                               g:::::gg   gg:::::g
+                                                g::::::ggg:::::::g
+                                                 gg:::::::::::::g
+                                                   ggg::::::ggg
+                                                      gggggg
+Version: ${application.version}
+AppTitle: ${application.title}
+Spring Boot Version: ${spring-boot.version}
